@@ -20,7 +20,6 @@ Based on data such as demand, production capacity, fixed costs and variable cost
 > - Assign the capacity of each of the factories that must be built.
 > - Return the total cost to meet the demand.
 
-'''
 ## :chart_with_upwards_trend: Results
 
 > - The number of factories and their capacities were arranged in a dataframe as a result.
