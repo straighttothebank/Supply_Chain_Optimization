@@ -23,7 +23,7 @@ Based on data such as demand, production capacity, fixed costs and variable cost
 ## :chart_with_upwards_trend: Results
 
 > - The number of factories and their capacities were arranged in a dataframe as a result.
-> - The result obtained shows the ideal production capacity to meet demand at the lowest possible cost.
+> - The result obtained shows the ideal production capacity to atend demand at the lowest possible cost.
 > - The total cost of production is displayed.
 
 <!--## :bar_chart: Images-->
