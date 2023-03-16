@@ -1,4 +1,4 @@
-# Five Personality Trait
+# Supply Chain Optimization
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -31,16 +31,16 @@ Based on data such as demand, production capacity, fixed costs and variable cost
 <table>
   <tr>
     <td align="center">
-      <a href="image-2.jpg">
-        <img src="image-2.jpg" width="100px;" alt=" "/><br>
+      <a href="image-2.png">
+        <img src="image-2.png" width="100px;" alt=" "/><br>
         <sub>
           <b>Demand x Capacity</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="image-1.jpg">
-        <img src="image-1.jpg" width="100px;" alt=" "/><br>
+      <a href="image-1.png">
+        <img src="image-1.png" width="100px;" alt=" "/><br>
         <sub>
           <b>Plants allocation</b>
         </sub>
